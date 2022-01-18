@@ -2,10 +2,16 @@
   "name": "express",
   "version": "1.0.0",
   "description": "framework",
-  "main": "try.js",
+  "main": "node try.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourav-js/once-again-node.git"
+  },
+  
   "author": "sourav",
   "license": "ISC",
   "dependencies": {
