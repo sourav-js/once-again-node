@@ -1,5 +1,5 @@
 {
-  "name": "express",
+  "name": "once-again-node",
   "version": "1.0.0",
   "description": "framework",
   "main": "try.js",
@@ -11,6 +11,9 @@
     "type": "git",
     "url": "git+https://github.com/sourav-js/once-again-node.git"
   },
+  
+  "homepage": "https://github.com/sourav-js/once-again-node#readme",
+
   "author": "sourav",
   "license": "ISC",
   "dependencies": {
